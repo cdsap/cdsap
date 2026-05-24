@@ -9,7 +9,7 @@
   <a href="https://github.com/cdsap"><img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=cdsap&style=for-the-badge&color=14b8a6"></a>
 </p>
 
-## Building faster feedback loops for large Android and Gradle projects
+## Building faster feedback loops for Android and Gradle projects
 
 I build tools that make build systems easier to observe, compare, and improve. Most of my work sits around Gradle, Android, Kotlin, Develocity, CI telemetry, and experiments that turn build behavior into useful data.
 
