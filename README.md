@@ -37,10 +37,7 @@ style        small tools, measurable feedback, practical automation
 | Project | Focus |
 | --- | --- |
 | [daemonitor](https://github.com/cdsap/daemonitor) | Local desktop view into Gradle daemon activity, process state, and build history. |
-| VideoSignal | Video signal exploration work connected to observing, extracting, and using richer runtime signals. |
-| [running-agent-tracker](https://github.com/cdsap/running-agent-tracker) | Small Kotlin tracker for currently running agents and local process activity. |
-| [experiment-agp-9.3.1](https://github.com/cdsap/experiment-agp-9.3.1) | Android Gradle Plugin experiment sandbox. |
-| [experiment-kotlin-2.4.10](https://github.com/cdsap/experiment-kotlin-2.4.10) | Kotlin version experiment sandbox. |
+| [VideoSignal](https://videosignal.ai/) | API for turning video, audio, images, and PDFs into structured JSON. |
 
 ## Toolbelt
 
@@ -62,8 +59,8 @@ style        small tools, measurable feedback, practical automation
 | Process telemetry | [InfoGradleProcess](https://github.com/cdsap/InfoGradleProcess), [InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess), [build-process-watcher](https://github.com/cdsap/build-process-watcher), [daemonitor](https://github.com/cdsap/daemonitor) |
 | Artifact and memory reports | [AndroidArtifactsSizeReport](https://github.com/cdsap/AndroidArtifactsSizeReport), [GCReport](https://github.com/cdsap/GCReport), [R8Booster](https://github.com/cdsap/R8Booster) |
 | Build graph analysis | [ProjectGraphMetrics](https://github.com/cdsap/ProjectGraphMetrics), [ProjectGenerator](https://github.com/cdsap/ProjectGenerator), [CompareScans](https://github.com/cdsap/CompareScans) |
-| Test and runtime tooling | [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension), [running-agent-tracker](https://github.com/cdsap/running-agent-tracker), VideoSignal |
-| Experimentation | [Telltale](https://github.com/cdsap/Telltale), [Bagan](https://github.com/cdsap/Bagan), [experiment-agp-9.3.1](https://github.com/cdsap/experiment-agp-9.3.1), [experiment-kotlin-2.4.10](https://github.com/cdsap/experiment-kotlin-2.4.10) |
+| Test and runtime tooling | [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension), [VideoSignal](https://videosignal.ai/) |
+| Experimentation | [Telltale](https://github.com/cdsap/Telltale), [Bagan](https://github.com/cdsap/Bagan) |
 
 ## Current themes
 
