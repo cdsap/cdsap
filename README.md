@@ -37,7 +37,7 @@ style        small tools, measurable feedback, practical automation
 | Project | Focus |
 | --- | --- |
 | [daemonitor](https://github.com/cdsap/daemonitor) | Local desktop view into Gradle daemon activity, process state, and build history. |
-| [VideoSignal](https://videosignal.ai/) | API for turning video, audio, images, and PDFs into structured JSON. |
+| [VideoSignal](https://thevideosignal.web.app/) | API for turning video, audio, images, and PDFs into structured JSON. |
 
 ## Toolbelt
 
@@ -59,7 +59,7 @@ style        small tools, measurable feedback, practical automation
 | Process telemetry | [InfoGradleProcess](https://github.com/cdsap/InfoGradleProcess), [InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess), [build-process-watcher](https://github.com/cdsap/build-process-watcher), [daemonitor](https://github.com/cdsap/daemonitor) |
 | Artifact and memory reports | [AndroidArtifactsSizeReport](https://github.com/cdsap/AndroidArtifactsSizeReport), [GCReport](https://github.com/cdsap/GCReport), [R8Booster](https://github.com/cdsap/R8Booster) |
 | Build graph analysis | [ProjectGraphMetrics](https://github.com/cdsap/ProjectGraphMetrics), [ProjectGenerator](https://github.com/cdsap/ProjectGenerator), [CompareScans](https://github.com/cdsap/CompareScans) |
-| Test and runtime tooling | [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension), [VideoSignal](https://videosignal.ai/) |
+| Test and runtime tooling | [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension), [VideoSignal](https://thevideosignal.web.app/) |
 | Experimentation | [Telltale](https://github.com/cdsap/Telltale), [Bagan](https://github.com/cdsap/Bagan) |
 
 ## Current themes
