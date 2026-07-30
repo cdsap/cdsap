@@ -32,6 +32,7 @@ I am Inaki Villar, working at [Develocity](https://develocity.ai/). I build tool
 | --- | --- |
 | [daemonitor](https://github.com/cdsap/daemonitor) | Local desktop view into Gradle daemon activity, process state, and build history. |
 | [VideoSignal](https://thevideosignal.web.app/) | AI workflow for processing video transcripts and turning them into useful signals. |
+| [Telltale results](https://cdsap.github.io/Telltale/) | Automated experimentation results for comparing Gradle build behavior across variants. |
 
 ## Toolbelt
 
