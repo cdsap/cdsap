@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Inaki%20Villar%20%7C%20cdsap&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Gradle%20%7C%20Android%20builds%20%7C%20performance%20tooling&descAlignY=58&descSize=18" alt="Inaki Villar cdsap profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Inaki%20Villar%20%7C%20cdsap&fontColor=ffffff&fontSize=48&fontAlignY=38" alt="Inaki Villar cdsap profile banner" />
 </p>
 
 <p align="center">
