@@ -11,11 +11,12 @@
 
 ## Building faster feedback loops for Android and Gradle projects
 
-I am Inaki Villar, also known as cdsap. I build tools that make build systems easier to observe, compare, and improve. Most of my work sits around Gradle, Android, Kotlin, Develocity, CI telemetry, and experiments that turn build behavior into useful data.
+I am Inaki Villar, working at Develocity. I build tools that make build systems easier to observe, compare, and improve. Most of my work sits around Gradle, Android, Kotlin, CI telemetry, and experiments that turn build behavior into useful data.
 
 ```text
 focus        build performance, observability, developer productivity
-ecosystem    Gradle, Android, Kotlin, JVM, GitHub Actions, Develocity
+ecosystem    Gradle, Android, Kotlin, JVM, GitHub Actions
+employer     Develocity
 style        small tools, measurable feedback, practical automation
 ```
 
