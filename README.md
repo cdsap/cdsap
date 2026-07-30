@@ -24,11 +24,23 @@ style        small tools, measurable feedback, practical automation
 | Project | What it does |
 | --- | --- |
 | [Talaiot](https://github.com/cdsap/Talaiot) | Extensible Gradle build telemetry library that records task duration, build metadata, and publishes metrics to systems like InfluxDB, Elasticsearch, Pushgateway, and RethinkDB. |
+| [daemonitor](https://github.com/cdsap/daemonitor) | Desktop activity monitor for Gradle daemons, live process insight, and build history. |
 | [Build Process Watcher](https://github.com/cdsap/build-process-watcher) | GitHub Action for monitoring Java and Kotlin build processes in CI, tracking heap, RSS, GC, charts, and optional live dashboards. |
 | [ProjectGenerator](https://github.com/cdsap/ProjectGenerator) | CLI and library for generating modular Gradle projects with configurable graph shapes, Android/JVM targets, dependency injection, Gradle versions, and synthetic code. |
 | [Telltale](https://github.com/cdsap/Telltale) | Experimentation framework for comparing Gradle build variants across branches, cache modes, environments, and report types. |
 | [CompareScans](https://github.com/cdsap/CompareScans) | CLI for comparing Build Scan metrics from Develocity or local files, with default and custom rules for build analysis. |
+| [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension) | Test Distribution extension for Paparazzi screenshot tests. |
 | [Bagan](https://github.com/cdsap/Bagan) | Experimental Kubernetes based framework for running Gradle build experiments, collecting metrics, and visualizing performance data. |
+
+## New and active work
+
+| Project | Focus |
+| --- | --- |
+| [daemonitor](https://github.com/cdsap/daemonitor) | Local desktop view into Gradle daemon activity, process state, and build history. |
+| VideoSignal | Video signal exploration work connected to observing, extracting, and using richer runtime signals. |
+| [running-agent-tracker](https://github.com/cdsap/running-agent-tracker) | Small Kotlin tracker for currently running agents and local process activity. |
+| [experiment-agp-9.3.1](https://github.com/cdsap/experiment-agp-9.3.1) | Android Gradle Plugin experiment sandbox. |
+| [experiment-kotlin-2.4.10](https://github.com/cdsap/experiment-kotlin-2.4.10) | Kotlin version experiment sandbox. |
 
 ## Toolbelt
 
@@ -47,14 +59,16 @@ style        small tools, measurable feedback, practical automation
 
 | Area | Repositories |
 | --- | --- |
-| Process telemetry | [InfoGradleProcess](https://github.com/cdsap/InfoGradleProcess), [InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess), [build-process-watcher](https://github.com/cdsap/build-process-watcher) |
+| Process telemetry | [InfoGradleProcess](https://github.com/cdsap/InfoGradleProcess), [InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess), [build-process-watcher](https://github.com/cdsap/build-process-watcher), [daemonitor](https://github.com/cdsap/daemonitor) |
 | Artifact and memory reports | [AndroidArtifactsSizeReport](https://github.com/cdsap/AndroidArtifactsSizeReport), [GCReport](https://github.com/cdsap/GCReport), [R8Booster](https://github.com/cdsap/R8Booster) |
 | Build graph analysis | [ProjectGraphMetrics](https://github.com/cdsap/ProjectGraphMetrics), [ProjectGenerator](https://github.com/cdsap/ProjectGenerator), [CompareScans](https://github.com/cdsap/CompareScans) |
-| Experimentation | [Telltale](https://github.com/cdsap/Telltale), [Bagan](https://github.com/cdsap/Bagan) |
+| Test and runtime tooling | [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension), [running-agent-tracker](https://github.com/cdsap/running-agent-tracker), VideoSignal |
+| Experimentation | [Telltale](https://github.com/cdsap/Telltale), [Bagan](https://github.com/cdsap/Bagan), [experiment-agp-9.3.1](https://github.com/cdsap/experiment-agp-9.3.1), [experiment-kotlin-2.4.10](https://github.com/cdsap/experiment-kotlin-2.4.10) |
 
 ## Current themes
 
 - Making CI resource usage visible while the build is still running.
+- Surfacing local daemon, agent, and video-derived signals for faster debugging.
 - Comparing build behavior across branches, cache modes, Gradle versions, and project shapes.
 - Turning Develocity and Build Scan data into actionable reports.
 - Building small Gradle plugins that expose hidden build-system costs.
