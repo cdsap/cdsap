@@ -9,9 +9,9 @@
   <a href="https://github.com/cdsap"><img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=cdsap&style=for-the-badge&color=14b8a6"></a>
 </p>
 
-## Building faster feedback loops for Android and Gradle projects
+## Developer productivity and build systems
 
-I am Inaki Villar, working at [Develocity](https://develocity.ai/). I build tools that make build systems easier to observe, compare, and improve. Most of my work sits around Gradle, Android, Kotlin, CI telemetry, and experiments that turn build behavior into useful data.
+I am Inaki Villar, working at [Develocity](https://develocity.ai/). I build tools that make software delivery easier to observe, compare, and improve. Most of my work sits around build systems, developer productivity, CI telemetry, and experiments that turn build behavior into useful data.
 
 ```text
 focus        build performance, observability, developer productivity
