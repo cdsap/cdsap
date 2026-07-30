@@ -17,11 +17,10 @@ I am Inaki Villar, working at [Develocity](https://develocity.ai/). I build tool
 
 | Project | What it does |
 | --- | --- |
-| [Talaiot](https://github.com/cdsap/Talaiot) | Extensible Gradle build telemetry library that records task duration, build metadata, and publishes metrics to systems like InfluxDB, Elasticsearch, Pushgateway, and RethinkDB. |
+| [Telltale](https://github.com/cdsap/Telltale) | Experimentation framework for comparing Gradle build variants across branches, cache modes, environments, and report types. |
 | [daemonitor](https://github.com/cdsap/daemonitor) | Desktop activity monitor for Gradle daemons, live process insight, and build history. |
 | [Build Process Watcher](https://github.com/cdsap/build-process-watcher) | GitHub Action for monitoring Java and Kotlin build processes in CI, tracking heap, RSS, GC, charts, and optional live dashboards. |
 | [ProjectGenerator](https://github.com/cdsap/ProjectGenerator) | CLI and library for generating modular Gradle projects with configurable graph shapes, Android/JVM targets, dependency injection, Gradle versions, and synthetic code. |
-| [Telltale](https://github.com/cdsap/Telltale) | Experimentation framework for comparing Gradle build variants across branches, cache modes, environments, and report types. |
 | [CompareScans](https://github.com/cdsap/CompareScans) | CLI for comparing Build Scan metrics from Develocity or local files, with default and custom rules for build analysis. |
 | [PaparazziTestDistributionExtension](https://github.com/cdsap/PaparazziTestDistributionExtension) | Test Distribution extension for Paparazzi screenshot tests. |
 | [Bagan](https://github.com/cdsap/Bagan) | Experimental Kubernetes based framework for running Gradle build experiments, collecting metrics, and visualizing performance data. |
