@@ -11,7 +11,7 @@
 
 ## Developer productivity and build systems
 
-I am Inaki Villar, working at [Develocity](https://develocity.ai/). I build tools that make software delivery easier to observe, compare, and improve. Most of my work sits around build systems, developer productivity, CI telemetry, and experiments that turn build behavior into useful data.
+I am Inaki Villar, working at [Develocity](https://develocity.ai/). I build tools that make software delivery easier to observe, compare, and improve. Most of my work sits around build systems, developer productivity, CI telemetry, AI-assisted workflows, and experiments that turn behavior into useful data.
 
 ```text
 focus        build performance, observability, developer productivity
