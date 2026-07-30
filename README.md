@@ -38,7 +38,7 @@ style        small tools, measurable feedback, practical automation
 | Project | Focus |
 | --- | --- |
 | [daemonitor](https://github.com/cdsap/daemonitor) | Local desktop view into Gradle daemon activity, process state, and build history. |
-| [VideoSignal](https://thevideosignal.web.app/) | API for turning video, audio, images, and PDFs into structured JSON. |
+| [VideoSignal](https://thevideosignal.web.app/) | AI workflow for processing video transcripts and turning them into useful signals. |
 
 ## Toolbelt
 
